@@ -1,0 +1,38 @@
+{
+	"suggest.noselect": false,
+	"coc.preferences.formatOnSaveFiletypes": [
+		"css",
+		"scss",
+		"html",
+		"javascript",
+		"javascriptreact",
+		"json",
+		"jsonc",
+		"typescript",
+		"typescriptreact",
+		"graphql",
+		"markdown",
+		"yaml",
+		"python"
+	],
+	"prettier.arrowParens": "avoid",
+	"prettier.printWidth": 80,
+	"prettier.tabWidth": 1,
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "es5",
+	"prettier.jsxBracketSameLine": true,
+	"prettier.bracketSpacing": true,
+	"prettier.jsxSingleQuote": true,
+	"tsserver.npm": "/usr/bin/npm",
+	"tsserver.enableJavascript": true,
+	"yank.highlight.enable": true,
+	"list.source.mru.ignoreGitIgnore": true,
+	"list.source.mru.excludePatterns": ["**/.git/*", "/node_modules/*"],
+	"eslint.alwaysShowStatus": true,
+	"snippets.userSnippetsDirectory": "$HOME/.config/nvim/snips"
+	/* "eslint.autoFixOnSave": true, */
+	/* "eslint.options": { */
+	/* 	"indent": ["error", "tab"] */
+	/* } */
+}
